@@ -5,7 +5,6 @@ const UserLayout = ({ children }) => {
   return (
     <>
       <Navbar />
-    
       <main className="relative isolate pt-18">{children}</main>
       <Footer />
     </>

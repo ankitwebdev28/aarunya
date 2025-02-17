@@ -40,7 +40,7 @@ function AppRoutes() {
               <Carnival />
             </UserLayout>
           }
-          />
+        />
         <Route
           path="/contact-us"
           element={
@@ -65,7 +65,7 @@ function AppRoutes() {
             </UserLayout>
           }
         />
-        
+
         <Route
           path="/events/cultural"
           element={
@@ -106,7 +106,6 @@ function AppRoutes() {
             </UserLayout>
           }
         />
-        
       </Routes>
     </Router>
   );
