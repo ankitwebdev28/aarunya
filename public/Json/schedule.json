@@ -1,0 +1,280 @@
+{
+  "Day 1": [
+    {
+      "Club Name": "",
+      "Event Name": "Inauguration Session",
+      "Venue": "Colloquium",
+      "Timing": "11 AM - 12 PM"
+      
+    },
+    {
+      "Club Name": "Rashtraay",
+      "Event Name": "Nukkad Natak Annual Play",
+      "Venue": "Main Hall Garden",
+      "Description": "Rashtraay's street plays (Nukkad Natak) are a reflection of society's deficits, challenging conventions. Their work provokes and encourages one to think, leaving a long-lasting impact.",
+      "Activity Type": "Cultural",
+      "Timing": "12 PM – 2 PM"
+    },
+    {
+      "Club Name": "Science Club",
+      "Event Name": "Jigyasa Quiz",
+      "Venue": "Colloquium",
+      "Description": "An end-of-year activity whereby students experiment on scientific topics within the subjects of biology, chemistry, physics, and astronomy to arouse and engender science-mindedness and love for the field.",
+      "Activity Type": "Technical",
+      "Timing": "2 PM – 4 PM"
+    },
+    {
+      "Club Name": "Disaster Club",
+      "Event Name": "Disaster Drill",
+      "Venue": "SH 3",
+      "Description": "This exercise simulates emergencies like earthquakes or fires to test preparedness. Students and teachers evacuate or lock down, and the college sharpens its emergency plan for security.",
+      "Activity Type": "Workshop/Session",
+      "Timing": "2 PM – 3 PM"
+    },
+    {
+      "Club Name": "GDG Student Chapter",
+      "Event Name": "UI/UX Competition",
+      "Prize Pool": "1k",
+      "Venue": "Colloquium",
+      "Description": "This hackathon invites you to create intuitive user interfaces. Solve interesting problems with innovative, functional, and beautiful solutions for engaging digital experiences.",
+      "Activity Type": "Technical",
+      "Timing": "3 PM – 6 PM"
+    },
+    {
+      "Club Name": "Soft Civil Club",
+      "Event Name": "Civil Workshop",
+      "Venue": "Conclave Center",
+      "Description": "The Soft Civil Club at MITS is hosting a workshop on Building Information Modeling (BIM), focusing on its impact on construction and mechanical design, enhancing efficiency, coordination, and design quality.",
+      "Activity Type": "Workshop/Session",
+      "Timing": "1 PM - 3 PM"
+    },
+    {
+      "Club Name": "Science Club",
+      "Event Name": "Science Club Exhibition",
+      "Venue": "SAC",
+      "Description": "Science exhibitions showcase student or enthusiast projects, highlighting creativity, scientific understanding, and problem-solving skills through experiments, models, and presentations, often with judging and awards to inspire curiosity.",
+      "Activity Type": "Workshop/Session",
+      "Timing": "12 PM - 5 PM"
+    },
+    {
+      "Club Name": "Artistry",
+      "Event Name": "Art Exhibition",
+      "Venue": "SAC",
+      "Description": "The event will feature external artists, offering students and the college community a chance to engage with professional artwork and deepen their appreciation for the arts.",
+      "Activity Type": "Workshop/Session",
+      "Timing": "12 PM - 5 PM"
+    },
+    {
+      "Club Name": "Lafze Bayan",
+      "Event Name": "The Nazm Canvas",
+      "Budget": "8k",
+      "Prize Pool": "5k",
+      "Venue": "SH 11",
+      "Description": "The competition celebrates poetry, encouraging participants to showcase their creativity and captivate audiences. It aims to inspire self-expression while recognizing and rewarding outstanding talent.",
+      "Activity Type": "Literary",
+      "Timing": "12 PM - 2 PM"
+    },
+    {
+      "Club Name": "",
+      "Event Name": "Buffer time",
+      "Venue": "",
+      "Description": "",
+      "Activity Type": "",
+      "Timing": "30 - 40 Mins"
+    },
+    {
+      "Club Name": "Bandish",
+      "Event Name": "Bandish",
+      "Venue": "Stage Ground",
+      "Description": "MITS will harmonize with melodies as Bandish brings Notes and Harmony 3.0, an exciting blend of Indian classical, Sufi numbers, and contemporary beats in a concert.",
+      "Activity Type": "Cultural",
+      "Timing": "6:30 PM - 8:30 PM"
+    }
+  ],
+  "Day 2": [
+    {
+      "Club Name": "MDLRC Chapter",
+      "Event Name": "MDLRC Expert\nTalk & Field Visit",
+      "Venue": "SH 3 & Solar Panel Area",
+      "Description": "This expert talk cum field visit is in collaboration with the solar industry where participants typically tour facilities such as solar panel manufacturing plants, solar farms, or research centers, while the expert provides deeper insights into topics like technology, industry trends, challenges, and career opportunities.",
+      "Activity Type": "Workshop/Session",
+      "Timing": "11 AM – 2 PM"
+    },
+    {
+      "Club Name": "Fitness Club",
+      "Event Name": "Treasure Hunt",
+      "Venue": "Campus Area",
+      "Description": "A thrilling treasure hunt game designed to test participants' problem-solving skills, teamwork, and quick thinking. Teams will decode clues, navigate through challenges, and race against time to discover hidden treasures. The event aims to foster camaraderie and strategic thinking among participants while ensuring a fun and engaging experience.",
+      "Activity Type": "Cultural",
+      "Timing": "11 AM – 1 PM"
+    },
+    {
+      "Club Name": "Hindi Samiti",
+      "Event Name": "Speech Competition",
+      "Budget": "-",
+      "Prize Pool": "8K",
+      "Venue": "SH 1",
+      "Description": "A Gwalior city-level speech competition inviting students to articulate their vision for Viksit Bharat @2047. Participants will deliver impactful speeches, emphasizing the role of youth in building a progressive and developed Bharat.",
+      "Activity Type": "Literary",
+      "Timing": "11 AM – 1 PM"
+    },
+    {
+      "Club Name": "Dance Club",
+      "Event Name": "Dance Competition",
+      "Venue": "SAC",
+      "Description": "A vibrant event where dancers of various styles and skill levels showcase their talent, creativity, and passion. It's a celebration of dance in all its forms, often filled with energy, excitement, and inspiring displays of athleticism and artistry. Participants are judged on factors like technique, artistry, musicality, and stage presence.",
+      "Activity Type": "Cultural",
+      "Timing": "2 PM – 5 PM"
+    },
+    {
+      "Club Name": "Animation Club",
+      "Event Name": "Animation Workshop",
+      "Venue": "Conclave Centre",
+      "Description": "The Animation Workshop provided participants with an opportunity to explore the creative world of animation under the guidance of industry professionals. Attendees learned various techniques, including character design, storyboarding, and animation principles. The interactive session encouraged creativity and allowed participants to work hands-on with animation tools.",
+      "Activity Type": "Workshop/Session",
+      "Timing": "1 PM – 3 PM"
+    },
+    {
+      "Club Name": "Querencia",
+      "Event Name": "Trivia Tournament",
+      "Venue": "Drawing Room",
+      "Description": "Trivia tournament: participants will go through multiple rounds testing their range of knowledge, oratory skills, and presence of mind. A fun and engaging contest where individuals or teams answer questions. It tests knowledge of recent and past cultural phenomena, from the biggest blockbusters to viral memes.",
+      "Activity Type": "Literary",
+      "Timing": "2 PM – 4 PM"
+    },
+    {
+      "Club Name": "StopNot",
+      "Event Name": "Podcast",
+      "Budget": "-",
+      "Venue": "Colloquium",
+      "Description": "Open Podcast - Podcast in front of a live audience with guests in fields of AI, entrepreneurship, and content creation. This will also be recorded and produced for everyone to see via an online medium.",
+      "Activity Type": "Workshop/Session",
+      "Guest & Speakers": "Yet To Decide",
+      "Timing": "3 PM – 5 PM"
+    },
+    {
+      "Club Name": "AI Club",
+      "Event Name": "AI Exhibition",
+      "Venue": "Main Hall First Floor",
+      "Description": "An AI exhibition showcases the latest advancements and applications of artificial intelligence. It typically features interactive displays, demonstrations, and presentations that explore various aspects of AI, from machine learning and computer vision to natural language processing and robotics. These exhibitions offer a glimpse into the potential of AI to transform industries and our daily lives.",
+      "Activity Type": "Workshop/Session",
+      "Timing": "12 PM – 5 PM"
+    },
+    {
+      "Club Name": "Frame Flicks Club",
+      "Event Name": "Castle of Frame Flicks",
+      "Venue": "Library Garden",
+      "Description": "-",
+      "Activity Type": "Workshop/Session",
+      "Timing": "1 PM – 3 PM"
+    },
+    {
+      "Club Name": "Scavengers Club",
+      "Event Name": "Go Kart",
+      "Venue": "Campus Roads",
+      "Description": "A go-karting showcase is an exciting event where drivers of all skill levels demonstrate their karting abilities. It's a chance to witness thrilling races, impressive driving techniques, and the pure adrenaline of high-speed karting action. Whether competitive or just for fun, a go-karting showcase offers entertainment and a glimpse into the world of motorsports.",
+      "Activity Type": "Workshop/Session",
+      "Timing": "4 PM – 6 PM"
+    },
+    {
+      "Club Name": "Dance Club",
+      "Event Name": "Dance Club Performance",
+      "Venue": "Stage Ground",
+      "Description": "A high-energy showcase of dance styles, often featuring choreographed routines set to music. It's the moment for dancers to express themselves creatively, entertain an audience, and celebrate the art of dance in a vibrant and dynamic atmosphere.",
+      "Activity Type": "Cultural",
+      "Timing": "5 PM – 7 PM"
+    },
+    {
+      "Club Name": "-",
+      "Event Name": "Buffer time",
+      "Venue": "-",
+      "Description": "-",
+      "Activity Type": "-",
+      "Timing": "30-40 Mins"
+    },
+    {
+      "Club Name": "-",
+      "Event Name": "DJ Night",
+      "Venue": "Stage Ground",
+      "Description": "Get ready to find your rhythm and dance like no one's watching because it's about to be a crazy night filled with enthusiasm and an electrifying vibe where a vibrant atmosphere is set, offering a chance to let loose, enjoy music, and connect with others who share a passion for rhythm and dance.",
+      "Activity Type": "Cultural",
+      "Timing": "7:30 PM – 9:30 PM"
+    }
+  ],
+  "Day 3": [
+    {
+      "Club Name": "StopNot",
+      "Event Name": "Content Creation Workshop",
+      "Venue": "Conclave Centre",
+      "Description": "Stopnot club organizes a workshop to guide future content creators in starting their journey and growing in a competitive landscape.",
+      "Activity Type": "Workshop/Session",
+      "Timing": "11 AM – 1 PM"
+    },
+    {
+      "Club Name": "Fitness Club",
+      "Event Name": "Treasure Hunt",
+      "Venue": "Campus Area",
+      "Description": "A thrilling treasure hunt testing teamwork, problem-solving, and strategy as teams race to decode clues and find hidden treasures.",
+      "Activity Type": "Session",
+      "Timing": "12 PM – 1 PM"
+    },
+    {
+      "Club Name": "Bandish",
+      "Event Name": "Singing Competition",
+      "Venue": "SAC",
+      "Description": "A platform for vocalists to showcase talent and compete while being judged on vocal technique, musicality, and stage presence.",
+      "Activity Type": "Cultural",
+      "Timing": "1 PM – 3 PM"
+    },
+    {
+      "Club Name": "ISTE and IETE",
+      "Event Name": "Foreign Studies Seminar",
+      "Venue": "Colloquium",
+      "Description": "A seminar featuring Renaissance Educare experts, guiding students on global education, exams (GRE, GMAT, SAT, IELTS, TOEFL), and scholarships.",
+      "Activity Type": "Session",
+      "Timing": "2 PM – 4 PM"
+    },
+    {
+      "Club Name": "Speakers Club",
+      "Event Name": "Debate Competition",
+      "Budget": "₹7,000",
+      "Prize Pool": "₹5,000",
+      "Venue": "Conclave Centre",
+      "Description": "A debate competition where participants present their views on educational, cultural, and innovative topics.",
+      "Activity Type": "Literary",
+      "Timing": "3 PM – 5 PM"
+    },
+    {
+      "Club Name": "IEEE Chapter",
+      "Event Name": "Poster Event",
+      "Venue": "SH 11",
+      "Description": "An event for innovative minds to exhibit their creativity through posters and learn from others.",
+      "Activity Type": "Technical",
+      "Timing": "4 PM – 6 PM"
+    },
+    {
+      "Club Name": "Frame Flicks Club",
+      "Event Name": "Castle of Frame Flicks",
+      "Venue": "Library Garden",
+      "Activity Type": "Workshop",
+      "Timing": "5 PM – 7 PM"
+    },
+    {
+      "Club Name": "-",
+      "Event Name": "Valedictory Session",
+      "Venue": "Colloquium",
+      "Description": "A celebration of achievements with speeches, awards, and reflections, marking the journey's completion.",
+      "Activity Type": "Cultural",
+      "Timing": "6 PM – 7 PM"
+    },
+    {
+      "Club Name": "-",
+      "Event Name": "Artist Performance",
+      "Venue": "Stage Ground",
+      "Description": "A short break from stress, featuring an artist's live performance.",
+      "Activity Type": "Cultural",
+      "Timing": "7:30 PM – 9 PM"
+    }
+  ]
+  
+}
